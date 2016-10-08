@@ -8,7 +8,7 @@
  	console.log("batiment", batiment); // affice immeuble neuf 
 
  	function rouler (){
- 		console.log("ftx rouler"); 
+ 		console.log("fct rouler"); 
  	}
- 	  
+ 	  rouler(); // appelle de la fonction hors du scope 
 })();
