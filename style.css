@@ -1,1 +1,13 @@
 /*mon fichier style */
+
+html,
+body {
+	height: 100%;
+	margin: 0;
+	padding: 0;
+	background-color: #FF808D;
+}
+
+* {
+	font-family: 'Open Sans', sans-serif;
+}
