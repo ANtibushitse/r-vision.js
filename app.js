@@ -5,7 +5,7 @@
 	console.log("musique", musique); // undifined 
 	var   musique = "suite de tonalité";
 	musique = " ensemble de notes créant de la musique"; 
- 		console.log("musique", musique); // affice immeuble neuf 
+ 		console.log("musique", musique); // affice ensemble de notes créant de la musique
 
  		function rouler (){
  			
